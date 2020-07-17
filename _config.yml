@@ -1,5 +1,7 @@
 # _config.yml
 
 title: "Piatra Demo using Jekyll Actions"
-repository: piat-ra/piat-ra.github.io.
+
+repository: piat-ra/piat-ra.github.io.git
+
 github: [metadata]
