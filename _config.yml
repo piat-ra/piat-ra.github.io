@@ -21,15 +21,14 @@
 title: Piatra Example page
 email: peter.kalt@piatra.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the default blog entry for a github pages website generated using jekyll. There are 
+  some underlying issues yet to be resolved, but so far a good start.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piat-ra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  piat-ra
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
