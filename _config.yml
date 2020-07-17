@@ -1,3 +1,5 @@
 # _config.yml
 
 title: "Piatra Demo using Jekyll Actions"
+
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
