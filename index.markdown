@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to My Piatra Page
+# Welcome to the Piatra Page with changes
 
 {% assign date = '2020-04-13T10:20:00Z' %}
 
